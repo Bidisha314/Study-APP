@@ -1,4 +1,4 @@
-# Study RAG – Flask + Gemini File Search App
+# Study RAG: Flask + Gemini File Search App
 
 A simple, clean **study assistant web app** built with **Flask** and **Google Gemini**.  
 You can upload your study notes (PDF, DOC, TXT, etc.) and then ask questions based on those notes.  
