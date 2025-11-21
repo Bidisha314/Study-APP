@@ -3,6 +3,7 @@
 A simple, clean **study assistant web app** built with **Flask** and **Google Gemini**.  
 You can upload your study notes (PDF, DOC, TXT, etc.) and then ask questions based on those notes.  
 The app sends your questions to Gemini and shows the answer in a nicely formatted way. Self-hosted the app using **Pinggy.io**.
+Check:https://pinggy.io/blog/how_to_use_file_search_tool_in_gemini_api_for_easy_rag_integration/
 
 ## ✨ Features
 
