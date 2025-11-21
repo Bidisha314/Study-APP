@@ -23,6 +23,7 @@ Check:https://pinggy.io/blog/how_to_use_file_search_tool_in_gemini_api_for_easy_
 - **LLM / RAG:** Google Gemini via `google-genai` SDK
 - **Frontend:** HTML (Jinja templates), minimal inline CSS
 - **Template Engine:** Jinja2 (Flask default)
+- **Tunneling Tool** Pinggy (https://pinggy.io/blog)
 - **Formatting:** `markdown` Python library to render AI output nicely
 
 
