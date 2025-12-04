@@ -16,6 +16,7 @@ Check:https://pinggy.io/blog/how_to_use_file_search_tool_in_gemini_api_for_easy_
 - 🧾 Answer shown in **clean paragraphs** with basic formatting (Markdown → HTML)
 - 🎨 Simple & clean UI built with HTML + inline CSS
 
+![Application_demo1](assets/demo.gif)
 
 ## 🧱 Tech Stack
 
