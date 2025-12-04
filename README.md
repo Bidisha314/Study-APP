@@ -38,3 +38,5 @@ study-rag/
 ├─ templates/
 │  └─ index.html
 └─ static/          # (optional, for images/icons if you add them later)
+
+
